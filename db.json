@@ -1,0 +1,57 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "test",
+      "email": "test@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "test2",
+      "password": "test2",
+      "email": "test2@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "hana",
+      "password": "hana",
+      "email": "hana@gmail.com",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 9
+    }
+  ]
+}
