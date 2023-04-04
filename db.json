@@ -52,6 +52,44 @@
       "email": "",
       "password": "",
       "id": 9
+    },
+    {
+      "name": "asd",
+      "password": "asdas",
+      "email": "asdasdasd",
+      "id": 10
+    },
+    {
+      "name": "asdasd",
+      "password": "asdasd",
+      "email": "asdasd",
+      "id": 11
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung m 41",
+      "price": "512",
+      "color": "black",
+      "category": "White",
+      "description": "This is a product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "nokia",
+      "price": "2000",
+      "color": "blue",
+      "category": "smart phone",
+      "description": "this is a smart phone",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 2
     }
   ]
 }
